@@ -8,3 +8,5 @@ pub mod decr;
 pub mod flush;
 pub mod mget;
 pub mod mset;
+pub mod info;
+pub mod strlen;

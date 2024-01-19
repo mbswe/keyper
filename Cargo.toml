@@ -10,3 +10,4 @@ toml = "0.8.8"
 serde = { version = "1.0.195", features = ["derive"] }
 log = "0.4.20"
 simple_logger = "4.3.3"
+unicode-segmentation = "1.10.1"
